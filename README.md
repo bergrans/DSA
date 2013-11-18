@@ -28,7 +28,7 @@ The following basic commands are implemented to get you going:
 - > = next track
 - < = previous track
 
-Check the [SimpleCD example] (https://github.com/martinvdberg/DSA/blob/master/lib/DSA/examples/SimpleCD/SimpleCD.ino).
+Check the [SimpleCD example] (https://github.com/martinvdberg/DSA/blob/master/lib/DSA/examples/SimpleCD/SimpleCD.ino). Good luck!
 
 Ard2Ard
 -------
