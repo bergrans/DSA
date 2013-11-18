@@ -1,0 +1,8 @@
+#class
+DSA	KEYWORD1
+
+#functions
+transmitRequested	KEYWORD2
+waitForMessage	KEYWORD2
+receiveMessage	KEYWORD2
+sendMessage	KEYWORD2
