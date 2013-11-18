@@ -197,7 +197,7 @@ bool DSA::sendMessage(byte opcode)
 }
 
 /**
- * \fn bool DSA::sendMessage(byte opcode, byte param)
+ * \fn bool DSA::sendMessage(byte opcode, byte parameter)
  * \brief Send a message.
  *
  * A DSA message contains a opcode and a parameter send as one 16bit command.
