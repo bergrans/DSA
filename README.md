@@ -28,10 +28,10 @@ The following basic commands are implemented to get you going:
 - > = next track
 - < = previous track
 
-Check the [SimpleCD example] (https://github.com/martinvdberg/DSA/blob/master/lib/DSA/examples/SimpleCD/SimpleCD.ino). Good luck!
+Check the [SimpleCD example] (blob/master/lib/DSA/examples/SimpleCD/SimpleCD.ino). Good luck!
 
 Ard2Ard
 -------
-Besides controlling a CD module this library can also be used to communicate between two Arduino boards. Load the example code in two Arduino boards, connect the three lines (with a 47Ohm resistor for safety) and the GND. Now open the serial-monitor on both sides and you are able to send text in two directions. Check the [Ard2Ard example] (https://github.com/martinvdberg/DSA/blob/master/lib/DSA/examples/Ard2Ard/Ard2Ard.ino).
+Besides controlling a CD module this library can also be used to communicate between two Arduino boards. Load the example code in two Arduino boards, connect the three lines (with a 47Ohm resistor for safety) and the GND. Now open the serial-monitor on both sides and you are able to send text in two directions. Check the [Ard2Ard example] (https://github.com/bergrans/DSA/blob/master/lib/DSA/examples/Ard2Ard/Ard2Ard.ino).
 
 ![Ard2Ard](images/Ard2Ard_bb.png "Arduino to Arduino using the DSA protocol")
