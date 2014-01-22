@@ -4,7 +4,7 @@ DSA
 Arduino library for the CD-Pro2 DSA protocol
 --------------------------------------------
 
-The high-end Compact Disc modules (CD-Pro2, CD-Pro2M and CD-Pro2) made by [daisy-laser] (http://www.daisy-laser.com) are controlled by this DSA protocol.
+The high-end Compact Disc modules (CD-Pro2, CD-Pro2M and CD-Pro2) made by [daisy-laser] (http://www.daisy-laser.com) are controlled by the DSA protocol.
 A three wire interface using a data- (DSA), strobe- (STB) and acknowledge (ACK) line.
 Read more about the [DSA protocol] (http://www.daisy-laser.com/technology/techdsa/techdsa.htm)
 
