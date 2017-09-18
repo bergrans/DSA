@@ -11,7 +11,7 @@ This is a small piece of work, that converts the DSA protocol assembler code fro
 
 Installation
 ============
-Download [the latest version] (https://github.com/bergrans/DSA/archive/master.zip) and unzip (atleast) the lib directory. Copy the unziped directory called "DSA" to the Arduino libraries folder. For OSX this is __~/Documents/Arduino/libraries/__ on Windows __My Documents\Arduino\libraries\__. More info about adding libraries to your Arduino IDE can be found [here](http://www.arduino.cc/en/Hacking/Libraries).
+Download [the latest version](https://github.com/bergrans/DSA/archive/master.zip) and unzip (atleast) the lib directory. Copy the unziped directory called "DSA" to the Arduino libraries folder. For OSX this is __~/Documents/Arduino/libraries/__ on Windows __My Documents\Arduino\libraries\__. More info about adding libraries to your Arduino IDE can be found [here](http://www.arduino.cc/en/Hacking/Libraries).
 
 Examples
 ========
