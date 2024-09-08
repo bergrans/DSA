@@ -66,7 +66,7 @@ int actualTitle;
 int actualMinutes;
 int actualSeconds;
 
-// Create a DSA controller and define the used pins in order of "Data", "Acknowledge" and "Strobe" 
+// Create a DSA controller and define the used pins in order of "Data", "Strobe" and "Acknowledge" 
 DSA myDSA(2,3,4);
 
 void setup() {
