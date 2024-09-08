@@ -66,7 +66,8 @@ int actualTitle;
 int actualMinutes;
 int actualSeconds;
 
-DSA myDSA(2,3,4);	// Create a DSA controller and define the used pins
+// Create a DSA controller and define the used pins in order of "Data", "Acknowledge" and "Strobe" 
+DSA myDSA(2,3,4);
 
 void setup() {
 	Serial.begin(9600);
