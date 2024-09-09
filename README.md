@@ -29,6 +29,8 @@ The following basic commands are implemented to get you going:
 
 Check the [SimpleCD example](https://github.com/bergrans/DSA/blob/master/examples/SimpleCD/SimpleCD.ino). Good luck!
 
+![SimpleCD](images/Ard2CDpro2.jpg "Arduino to CD-Pro2 using the DSA protocol")
+
 Ard2Ard
 -------
 Besides controlling a CD module this library can also be used to communicate between two Arduino boards. Load the example code in two Arduino boards, connect the three lines (with a 47Ohm resistor for safety) and the GND. Now open the serial-monitor on both sides and you are able to send text in two directions. Check the [Ard2Ard example](https://github.com/bergrans/DSA/blob/master/examples/Ard2Ard/Ard2Ard.ino).
